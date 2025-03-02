@@ -1,5 +1,5 @@
 # Flight Management System
-###	Used Dijkstra and BFS.
+#### Used Dijkstra and BFS.
 
 # Library management system
-### Uses hashing Merge sort, Dynamic Hashing.
+#### Uses hashing Merge sort, Dynamic Hashing.
